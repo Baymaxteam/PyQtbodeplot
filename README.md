@@ -6,5 +6,5 @@
 
 ## Packing with pyinstaller
 
-comd: pyinstaller --onefile --windowed --additional-hooks-dir=. main.py
+'pyinstaller --onefile --windowed --additional-hooks-dir=. main.py'
 
